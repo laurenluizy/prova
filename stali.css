@@ -11,3 +11,25 @@ font-size: 25px;}
 h2{ color: black;}
 
 ol{color: black;}
+
+.cabeçalho{
+    background-color: aqua;}
+
+.gato1{ 
+    width: 130px;
+    margin-left:100px ;
+    margin-top: 5px;
+    margin-bottom: 5px;}
+
+.item{
+color: black;
+list-style: none;
+text-transform: uppercase;
+padding: 5px;
+}
+.item_lista{
+    display: flex;
+
+}
+
+.lista_cabealho
